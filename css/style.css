@@ -264,6 +264,10 @@ section {
     max-width: 354px;
   }
 
+  .text {
+    font-size: 16px;
+  }
+
   .more__link {
     width: 200px;
     padding: 17px 0px;
